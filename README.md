@@ -12,7 +12,7 @@ The Restaurant Service is a Spring Boot application that provides RESTful APIs f
 The application will start on http://localhost:8080.
 
 ### Postman collection
-You can use postman collection to test the application
+You can use postman collection "Restaurant micro service.postman_collection.json" to test the application
 
 
 ### Swagger UI Documentation
